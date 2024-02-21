@@ -2,8 +2,8 @@ import os
 
 
 class Config(object):
-    TG_BOT_TOKEN = os.environ.get("6969577050:AAFeNsbUqhXzHMiHpB45f4DTTLWZWWDYhk8", "")
+    TG_BOT_TOKEN = os.environ.get("6995888962:AAHA4ozq8jiip9V358b8k0zJSLMmC6GoPqg", "")
 
-    APP_ID = int(os.environ.get("APP_ID", 10027276))
+    APP_ID = int(os.environ.get("APP_ID", 21786461))
 
-    API_HASH = os.environ.get("API_HASH", "ce5e8cd00a5bdd3c09c5f1489c4fb858")
+    API_HASH = os.environ.get("API_HASH", "bda65e7c142dd5841fd6843d0ded941f")
